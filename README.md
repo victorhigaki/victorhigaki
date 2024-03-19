@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello World!
+
+<div>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=victorhigaki&theme=dark " />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhigaki&hide=css&layout=compact&theme=dark " />
+</div>
+
+
+![](https://komarev.com/ghpvc/?username=victorhigaki&color=dark)
 
 <!--
 **victorhigaki/victorhigaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
