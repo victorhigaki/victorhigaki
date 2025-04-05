@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<div>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=dark&preferLogin=false">    <img height="200px" alt="victorhigaki's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/victorhigaki?cardType=level-alternate&theme=dark&preferLogin=false" />  </a>
+  <img height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=victorhigaki&layout=compact&theme=dark&langs_count=5">
+</div>
+
 <!--
 **victorhigaki/victorhigaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
