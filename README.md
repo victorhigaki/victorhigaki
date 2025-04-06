@@ -5,6 +5,25 @@
   <img height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=victorhigaki&layout=compact&theme=dark&langs_count=5">
 </div>
 
+## Full-Stack Developer
+
+#### **Front-end**  
+- **Angular, React**  
+- **Bootstrap**  
+- **HTML, CSS, JavaScript**
+  
+#### **Backend**  
+- **.NET**
+- **C#**
+
+#### **Database**  
+- **SQLServer**  
+- **SQL**
+  
+#### **Tools**  
+- **Git, GitHub**
+- **RESTful**
+
 <!--
 **victorhigaki/victorhigaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
